@@ -1,0 +1,126 @@
+* { 
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:aliceblue;
+}
+
+.altura01 {
+    height: 5rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.altura02 {
+    height: 5rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider {
+    height: 20rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.marge {
+    background-color:black;
+    height: 40rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.homer {
+    background-color: black;
+    height: 20rem;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.bart {
+    background-color: black;
+    height: 20rem;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.lisa {
+    background-color: black;
+    height: 20rem;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.maggie {
+    background-color: black;
+    height: 20rem;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+a {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+.caja01 {
+    height: 10rem;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100%;
+}
+.caja02 {
+    height: 50rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100%;
+}
+.caja03 {
+    height: 50rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100%;
+    padding: 1rem;
+}
